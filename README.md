@@ -37,11 +37,6 @@ I am a passionate **AI and Data Science Engineer** with a strong foundation in p
   </picture>
 </div>
 
-## 🌟 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SobhanRanjbar&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SobhanRanjbar&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ---
 
